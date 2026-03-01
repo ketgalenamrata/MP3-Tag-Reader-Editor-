@@ -1,8 +1,5 @@
 /* Description - MP3 TAG READER PROJECT. Handles user input and decides whether to view or edit MP3 tag 
     Name - Namrata Ketgale
-    Start date -  15/1/2026
-    End date - 24/1/2026
-    Admission id - 25031_168
 */
 
 #include "MP3.h"
@@ -53,4 +50,5 @@ int main(int argc, char* argv[])
         return 1;
     }
     return 0;
+
 }
